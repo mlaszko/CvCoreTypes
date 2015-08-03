@@ -4,3 +4,5 @@ ADD_COMPONENT(CameraInfoProvider)
 ADD_COMPONENT(HomogenousMatrixProvider)
 
 ADD_COMPONENT(HomogenousMatrixSequence)
+
+ADD_COMPONENT(HomogMatrixMultiplication)
